@@ -1,0 +1,73 @@
+.main-container1{
+    align-items: center;
+    display: flex;
+    width: 98vw;
+    height: 100vh;
+    margin-right: 2%;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.movie-list{
+    width: 75vw;
+    height: 750px;
+    margin-left: 13%;
+    padding-bottom: 20px;
+    background-color: black;
+    color: white;
+    margin-top: 2%;   
+}
+
+.title{
+    text-align: center;
+        margin-bottom: 1em;
+        font-size: 24px;
+        font-weight: 800;
+}
+
+.img-cell{
+    width: 80px;
+}
+.rank{
+    width: 550px;
+}
+.imdbRating{
+    width: 200px;
+}
+.yourRating{
+    width: 200px;
+
+}
+.wishlist{
+    width: 200px;
+
+}
+
+/* td{
+        height: 80px;
+} */
+
+.rating{
+        padding-left: 23px;
+        margin-top: -20px;
+}
+.watchList{
+    margin-left: 30px;
+    font-size: x-large;
+}
+.imdb-rating{
+    margin-left: 12px;
+}
+.watchList :hover {
+    opacity: 0.3;
+    pointer-events: painted;
+    cursor: pointer;
+}
+.movieTitle{
+    padding: auto;
+}
+.movieTitle :hover{
+cursor: pointer;
+text-decoration: underline;
+color: rgb(59, 59, 197);
+}
+

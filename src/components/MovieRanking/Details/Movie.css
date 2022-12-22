@@ -1,0 +1,15 @@
+.text-format {
+    font-size: 14px;
+    color: #ffffffB3;
+}
+
+.rating-star {
+    margin-left: 70%;
+    margin-top: -12%;
+}
+
+.rating-star:hover {
+    cursor: pointer;
+    text-decoration: underline;
+    color: rgb(59, 59, 197);
+}

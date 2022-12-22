@@ -1,0 +1,38 @@
+.sort{
+    display: flex;
+    width: 30%;
+    float: right;
+    margin-bottom: 1.5%;
+    margin-right: -6%;
+}
+.titles{
+    position: absolute;
+    font-size: large;
+    margin-left: 3px;
+    margin-top: 10px;
+}
+select{
+    border-radius: 3px;
+    height: 30px;
+    
+}
+.sortLabel{
+    font-size: medium;
+    margin-top: 1%;
+    margin-left: 50px;
+}
+.order{
+    border: 1px solid white;
+    border-radius: 3px;
+    width: 10%;
+    margin-left: 2%;
+    height: 29px;
+}
+.asc:hover{
+cursor: pointer;
+opacity: 0.3;
+}
+.desc:hover{
+cursor: pointer;
+opacity: 0.3;
+}
